@@ -176,3 +176,4 @@ cython_debug/
 GIS/
 # Exclude all CSV files
 *.csv
+*.png
